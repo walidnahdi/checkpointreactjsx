@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+
+.Carte {
+  margin-top: 40px;
+  margin-left: 40%;
+  display: block;
+  justify-content:center;
+  margin-bottom: 20px;
+  
+}
